@@ -1,0 +1,46 @@
+[ {
+  "listOfAttendants" : [ ],
+  "responsiblePerson" : "responsiblePerson1",
+  "name" : "name1",
+  "description" : "description1",
+  "startDate" : "2022-04-04 10:30",
+  "endDate" : "2022-04-04 11:00",
+  "category" : "Hub",
+  "type" : "Live"
+}, {
+  "listOfAttendants" : [ ],
+  "responsiblePerson" : "responsiblePerson2",
+  "name" : "name2",
+  "description" : "description2",
+  "startDate" : "2022-03-04 16:00",
+  "endDate" : "2022-03-04 18:30",
+  "category" : "CodeMonkey",
+  "type" : "Live"
+}, {
+  "listOfAttendants" : [ ],
+  "responsiblePerson" : "responsiblePerson5",
+  "name" : "name5",
+  "description" : "description5",
+  "startDate" : "2022-06-10 11:30",
+  "endDate" : "2022-06-10 12:30",
+  "category" : "CodeMonkey",
+  "type" : "Live"
+}, {
+  "listOfAttendants" : [ {
+    "name" : "Ezekiel3",
+    "time" : "2022-03-04 12:33"
+  }, {
+    "name" : "Ezekiel for meeting3",
+    "time" : "2022-03-04 12:33"
+  }, {
+    "name" : "Attendant333",
+    "time" : "2022-03-04 13:29"
+  } ],
+  "responsiblePerson" : "responsiblePerson3",
+  "name" : "name3",
+  "description" : "description3",
+  "startDate" : "2022-10-26 12:30",
+  "endDate" : "2022-10-27 13:30",
+  "category" : "CodeMonkey",
+  "type" : "Live"
+} ]
